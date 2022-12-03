@@ -1,0 +1,33 @@
+#q1
+{
+    color: aquamarine;
+    background-color: brown;
+    text-decoration: underline;
+    text-indent: 50px;
+    text-align: justify;
+}
+#q2
+{
+    background-color: chartreuse;
+    /* letter-spacing: 10px;         
+                                                    комментарий
+    word-spacing: 50px; */
+    white-space: pre;
+    text-align: end;
+}
+#w1
+{
+    font-family: 'Sono', sans-serif;
+    background-color: coral;
+}
+#q3
+{
+        text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: violet;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: fantasy;
+}
